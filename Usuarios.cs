@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsumirServicioREST
 {
-    public class Usuario
+    public class Usuarios
     {
         public int Id { get; set; }
         public string Nombre { get; set; }
